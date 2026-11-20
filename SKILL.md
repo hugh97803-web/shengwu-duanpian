@@ -1,7 +1,8 @@
 ---
-name: 声舞短片
-version: 1.3.0
+name: shengwu-duanpian
 description: 声舞短片技能。声、舞、镜一体：音乐、歌词、口型、舞蹈、摄影机同时间码，一体化出 AI 视频提示词与发布文案。舞种按需换：K-pop 女团、Hip-hop、Popping、House、Waacking、宅舞/偶像舞、古风/古典、多人群舞、说唱舞。单条 15 秒，30 / 40 秒用末帧续接 + 大切镜 + 整段连续音乐拼成。由用户提供的说唱跳舞 SKILL v1.3.0 改建，方向、结构与命名已重做，不再是原版。
+metadata:
+  version: 1.3.0
 ---
 
 # 声舞短片
